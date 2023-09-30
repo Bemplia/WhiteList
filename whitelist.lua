@@ -1,4 +1,4 @@
 userids = {
-[3449077405] = true
+[3449077405] = false
 }
 return userids
